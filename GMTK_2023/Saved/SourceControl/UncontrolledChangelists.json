@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/iking/Documents/Creations/GameJam2023/GMTK-2023/GMTK_2023/Content/Levels/MainLevel.umap"
+			]
+		}
+	]
+}
