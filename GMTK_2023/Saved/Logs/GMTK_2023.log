@@ -13836,3 +13836,35 @@ UnknownFunction []
 [2023.07.08-22.06.06:371][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.07.08-22.06.06:381][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
 [2023.07.08-22.06.06:445][565]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2023.07.08-22.13.46:135][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.07.08-22.13.46:140][936]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/BlankTestMap/4/GS/WCD11A05KFAFT1TL76AB8Y_Auto4
+[2023.07.08-22.13.46:140][936]LogSavePackage: Moving '../../../../../../Users/devis/OneDrive/Documents/GMTK-2023/GMTK_2023/Saved/WCD11A05KFAFT1TL76AB8Y_Auto406E6D82F44DA835F30E9BC9FDB7A1DCC.tmp' to '../../../../../../Users/devis/OneDrive/Documents/GMTK-2023/GMTK_2023/Saved/Autosaves/Game/__ExternalActors__/Levels/BlankTestMap/4/GS/WCD11A05KFAFT1TL76AB8Y_Auto4.uasset'
+[2023.07.08-22.13.46:143][936]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/BlankTestMap/E/T6/41WV9NMFRMN3F8QRJHZ6F5_Auto4
+[2023.07.08-22.13.46:143][936]LogSavePackage: Moving '../../../../../../Users/devis/OneDrive/Documents/GMTK-2023/GMTK_2023/Saved/41WV9NMFRMN3F8QRJHZ6F5_Auto476574A3D49B9F21E3B3B0DBF5C77E701.tmp' to '../../../../../../Users/devis/OneDrive/Documents/GMTK-2023/GMTK_2023/Saved/Autosaves/Game/__ExternalActors__/Levels/BlankTestMap/E/T6/41WV9NMFRMN3F8QRJHZ6F5_Auto4.uasset'
+[2023.07.08-22.13.46:144][936]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/BlankTestMap/E/KJ/GFGIO1YOILYDI8EOE2UG4R_Auto4
+[2023.07.08-22.13.46:144][936]LogSavePackage: Moving '../../../../../../Users/devis/OneDrive/Documents/GMTK-2023/GMTK_2023/Saved/GFGIO1YOILYDI8EOE2UG4R_Auto4271E491B4C237E3D65DE04BFC547B009.tmp' to '../../../../../../Users/devis/OneDrive/Documents/GMTK-2023/GMTK_2023/Saved/Autosaves/Game/__ExternalActors__/Levels/BlankTestMap/E/KJ/GFGIO1YOILYDI8EOE2UG4R_Auto4.uasset'
+[2023.07.08-22.13.46:146][936]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/BlankTestMap/0/2Y/26ZV5XSR6DBQ7TC6CPZCOY_Auto4
+[2023.07.08-22.13.46:146][936]LogSavePackage: Moving '../../../../../../Users/devis/OneDrive/Documents/GMTK-2023/GMTK_2023/Saved/26ZV5XSR6DBQ7TC6CPZCOY_Auto4E971263D4D21D729BC8CC6B2C60D92BE.tmp' to '../../../../../../Users/devis/OneDrive/Documents/GMTK-2023/GMTK_2023/Saved/Autosaves/Game/__ExternalActors__/Levels/BlankTestMap/0/2Y/26ZV5XSR6DBQ7TC6CPZCOY_Auto4.uasset'
+[2023.07.08-22.13.46:147][936]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/BlankTestMap' took 0.102
+[2023.07.08-22.13.46:147][936]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.102
+[2023.07.08-22.22.29:304][613]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (CORSAIR ST100 Headset Output), InstanceID=1
+[2023.07.08-22.22.29:307][613]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33616
+[2023.07.08-22.22.30:685][746]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{1d4b9a56-2b0f-4df2-a78e-e0874ebb27d3}, Name=Headphones (CORSAIR ST100 Headset Output)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=1375.48
+[2023.07.08-22.22.30:685][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2023.07.08-22.22.30:688][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.08-22.22.34:320][108]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG FHD (NVIDIA High Definition Audio), InstanceID=1
+[2023.07.08-22.22.34:329][109]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33616
+[2023.07.08-22.22.34:426][118]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{877292fd-7e63-46d2-80a9-7bcb18a5b992}, Name=LG FHD (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=87.70
+[2023.07.08-22.22.34:426][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.08-22.22.34:428][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.08-22.37.05:390][663]LogDerivedDataCache: C:/Users/devis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.180 and deleted 0 files with total size 0 MiB. Scanned 6165 files in 6103 folders with total size 573 MiB.
+[2023.07.08-22.37.28:944][139]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (CORSAIR ST100 Headset Output), InstanceID=1
+[2023.07.08-22.37.28:949][139]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33616
+[2023.07.08-22.37.30:226][261]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{1d4b9a56-2b0f-4df2-a78e-e0874ebb27d3}, Name=Headphones (CORSAIR ST100 Headset Output)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=1268.34
+[2023.07.08-22.37.30:226][261]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2023.07.08-22.37.30:229][261]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.08-22.37.32:830][505]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG FHD (NVIDIA High Definition Audio), InstanceID=1
+[2023.07.08-22.37.32:838][505]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33616
+[2023.07.08-22.37.32:964][514]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{877292fd-7e63-46d2-80a9-7bcb18a5b992}, Name=LG FHD (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=116.45
+[2023.07.08-22.37.32:964][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.08-22.37.32:967][514]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
